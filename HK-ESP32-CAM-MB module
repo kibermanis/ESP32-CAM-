@@ -1,0 +1,61 @@
+Introduce:
+HK-ESP32-CAM-MB module is a small camera module with a size of 39.8*27*. The module can work independently as a minimal system. The new WiFi+ Bluetooth dual-mode development board designed based on ESP32 adopts an on-board PCB antenna and is equipped with two high-performance 32-bits LX6CPU, using 7-stage pipeline architecture, frequency adjustment range from 80MHz to 240Mhz. Ultra-low power consumption with deep sleep current as low as 6mA. It is an ultra-small 802.11b/g/n Wi-Fi + BT/BLE SoC module
+HK-ESP32-CAM-MB adopts Micro USB interface, which is convenient and reliable to connect and be used in various fields of IoT hardware terminals. 
+
+Specification:
+Operating voltage 4.75-5.25V
+SPIFlash defaults to 32mbit
+ 520KB internal RAM +  8MB external PSRAM
+Wi-Fi 802.11b/G/n/e/ i
+Bluetooth 4.2BR/EDR and BLE standard
+Support interface (2Mbps) UART, SPI, I2C, PWM
+Support TF card, maximum support 4G
+IO口9
+The default serial port rate is 115200bps
+Spectrum range 2400 ~ 2483.5 MHz
+Integrated PCB antenna shape, 2dBi gain
+Image output formats: JPEG (only compatible with OV2640), BMP, grayscale
+DIP-16 packaging
+802.11b transmit power: 17 ± 2dBm (@ 11mbps).
+802.11g:14 ± 2dBm (@54mbps)
+802.11n：13 ± 2dBm (@ MCS7)
+Receiving sensitivity CCK, 1mbps: -90dBm
+CCK，11mbps：-85dBm
+6Mbps (1 / 2BPSK)：-88dBm
+54Mbps (3/464-QAM)：-70dBm
+MCS7(65Mbps、72.2 Mbps):-67dBm
+Power consumption off flash: 180mA @ 5V
+Turn on the flash and set the brightness to maximum: 310mA @ 5V. 
+Deep sleep: Up to 6mA minimum power consumption at 5V. 
+Modern-sleep: as low as 20mA at 5V. 
+Light sleep: 6.7mA minimum at 5V. 
+WPA/WPA2/WPA2 - Enterprise/WPS Security
+Working temperature -20 °C ~ 70 °C
+Storage environment -40°C~125°C, <90% RH
+
+Range:
+It features a low-power dual-core 32-bit CPU that can be used as an application processor. 
+The main frequency is up to 240MHz, and the computing power is up to 600DMIPS. 
+520 KB onboard SRAM, 8MB external PSRAM
+Compatible with UART/SPI/I2C/PWM/ADC/DC and other interfaces. 
+Compatible with OV2640 and OV7670 cameras with built-in flash
+Support WiFI image upload
+Support TF card
+Supports multiple sleep modes.
+Integration with Lwip and FreeRTOS
+Support STA/AP/STA+AP working mode
+Support one-click network configuration Smart Config / AirKiss
+Support secondary development
+
+Apply:
+Smart home device image transmission
+Wireless monitoring
+Smart agriculture
+Wireless QR code recognition
+Wireless positioning system signal
+and other IoT applications
+
+The package includes:
+1 x ESP32-CAM-MB WIFI ESP32 CAM Bluetooth development board
+
+
